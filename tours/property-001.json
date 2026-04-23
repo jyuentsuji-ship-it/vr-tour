@@ -1,0 +1,12 @@
+{
+  "id": "property-001",
+  "name": "test",
+  "rooms": [
+    {
+      "id": "room-1",
+      "name": "リビング",
+      "photo": "photos/property-001/test.jpg",
+      "hotspots": []
+    }
+  ]
+}
