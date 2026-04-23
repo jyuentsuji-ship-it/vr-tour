@@ -1,0 +1,24 @@
+{
+  "id": "sample-property",
+  "name": "サンプル物件 3LDK",
+  "rooms": [
+    {
+      "id": "room-1",
+      "name": "リビング",
+      "photo": "photos/sample-property/living.jpg",
+      "hotspots": []
+    },
+    {
+      "id": "room-2",
+      "name": "寝室",
+      "photo": "photos/sample-property/bedroom.jpg",
+      "hotspots": []
+    },
+    {
+      "id": "room-3",
+      "name": "キッチン",
+      "photo": "photos/sample-property/kitchen.jpg",
+      "hotspots": []
+    }
+  ]
+}
